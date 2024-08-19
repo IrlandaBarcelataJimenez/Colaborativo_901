@@ -46,6 +46,16 @@
             <h3>Los Cabos</h3>
             <p>Los Cabos es conocido por su paisaje desértico y playas espectaculares. Es un destino de lujo, perfecto para quienes buscan una experiencia de alto nivel.</p>
         </div>
+        <div class="playa">
+            <img src="imagenes/campeche.jpg" alt="Campeche">
+            <h3>Seybaplaya, pueblo pesquero por tradición</h3>
+            <p>Es un puerto famoso de Campeche y con una playa asombrosa en especial para temporada de verano, ubicada a 32 kilómetros de la ciudad.</p>
+        </div>
+        <div class="playa">
+            <img src="imagenes/colomitos.jpg" alt="Playa Colomitos">
+            <h3>Playa Colomitos</h3>
+            <p>Colomitos se ubica en Puerto Vallarta, que es una ciudad costera perteneciente al Estado de Jalisco.</p>
+        </div>
     </section>
 
     <section id="ofertas">
