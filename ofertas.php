@@ -22,7 +22,7 @@
     <section id="mejores-playas">
         <h2>Las Mejores Ofertas</h2>
         <div class="playa">
-            <img src="imagenes/holbox.jpg" alt="Holbox">
+            <img src="imagenes/holbox2.jpg" alt="Holbox">
             <h3>Isla Holbox</h3>
             <p>Isla Holbox es un paraíso tranquilo, famoso por sus aguas turquesas y su ambiente relajado. Es un destino ideal para quienes buscan escapar del bullicio y disfrutar de la naturaleza.</p>
             <p><strong>Viaje redondo desde $2499 MXN</strong></p>
@@ -34,19 +34,19 @@
             <p><strong>Viaje redondo desde $2499 MXN</strong></p>
         </div>
         <div class="playa">
-            <img src="imagenes/zihuatanejo.jpg" alt="Zihuatanejo">
+            <img src="imagenes/nueva.jpg" alt="Zihuatanejo">
             <h3>Zihuatanejo</h3>
             <p>Zihuatanejo es un encantador pueblo pesquero que ha mantenido su autenticidad. Ofrece playas tranquilas y una atmósfera relajada, perfecta para unas vacaciones en el Pacífico.</p>
             <p><strong>Viaje redondo desde $2499 MXN</strong></p>
         </div>
         <div class="playa">
-            <img src="imagenes/huatulco.jpg" alt="Huatulco">
+            <img src="imagenes/Huatulco2.jpg" alt="Huatulco">
             <h3>Huatulco</h3>
             <p>Huatulco es famoso por sus nueve bahías y 36 playas, muchas de ellas aún vírgenes. Es un destino ideal para los amantes de la naturaleza y el ecoturismo.</p>
             <p><strong>Viaje redondo desde $2499 MXN</strong></p>
         </div>
         <div class="playa">
-            <img src="imagenes/sayulita.jpg" alt="Sayulita">
+            <img src="imagenes/Sayulita2.jpg" alt="Sayulita">
             <h3>Sayulita</h3>
             <p>Sayulita es un vibrante destino de surf y arte, conocido por su cultura surfista y su ambiente colorido. Es perfecto para quienes buscan una mezcla de aventura y relajación.</p>
             <p><strong>Viaje redondo desde $2499 MXN</strong></p>
