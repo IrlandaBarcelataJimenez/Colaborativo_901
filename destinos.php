@@ -46,10 +46,16 @@
             <p><strong>Viaje redondo desde $2499 MXN</strong></p>
         </div>
         <div class="playa">
-            <img src="imagenes/tequila.jpg" alt="San Cristóbal de las Casas">
+            <img src="imagenes/san_cristobal.jpg" alt="San Cristóbal de las Casas">
             <h3>San Cristóbal de las Casas</h3>
             <p>San Cristóbal de las Casas es un encantador pueblo en Chiapas, famoso por su arquitectura colonial y su rica cultura indígena.</p>
             <p><strong>Viaje redondo desde $2499 MXN</strong></p>
+        </div>
+        <div class="playa">
+            <img src="imagenes/cozumel.jpg" alt="Tequila">
+            <h3>Cozumel</h3>
+            <p>Cozumel es una isla mexicana en el Caribe, famosa por sus arrecifes de coral, playas de arena blanca y oportunidades para buceo y esnórquel.</p>
+            <p><strong>Viaje redondo desde $4499 MXN</strong></p>
         </div>
 
     </section>
