@@ -27,7 +27,7 @@
         <div class="playa">
             <img src="imagenes/goku.jpg">
             <h3>Xavi Fernando Perez Lopez </h3>
-            <p>sexo: Hombre </p>
+            <p>sexo: Hombre. </p>
             <p><strong>Carrera: Tecnologia de la informacion y Comunicacion </strong></p>
         </div>
     </section>
