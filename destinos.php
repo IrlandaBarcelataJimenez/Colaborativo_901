@@ -54,7 +54,7 @@
         <div class="playa">
             <img src="imagenes/cozumel.jpg" alt="Tequila">
             <h3>Cozumel</h3>
-            <p>Cozumel es una isla mexicana en el Caribe, famosa por sus arrecifes de coral, playas de arena blanca y oportunidades para buceo y esnórquel.</p>
+            <p>Cozumel es una isla mexicana en el Caribe famosa por sus arrecifes de coral, playas de arena blanca y oportunidades para buceo y esnórquel.</p>
             <p><strong>Viaje redondo desde $4499 MXN</strong></p>
         </div>
 
