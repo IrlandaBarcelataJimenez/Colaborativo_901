@@ -12,9 +12,12 @@
         <p>Descubre los destinos más fascinantes de México a precios increíbles.</p>
         <nav>
             <ul>
-                <li><a href="index.php">Home</a></li>
+            <li><a href="index.php">Home</a></li>
                 <li><a href="ofertas.php">Ofertas</a></li>
                 <li><a href="destinos.php">Destinos</a></li>
+                <li><a href="irlanda.php">Irlanda</a></li>
+                <li><a href="vania.php">Vania</a></li>
+                <li><a href="xavi.php">Xavi</a></li>
             </ul>
         </nav>
     </header>
